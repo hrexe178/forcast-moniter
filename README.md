@@ -51,9 +51,12 @@ Production-ready dashboard for monitoring and analyzing UK Wind Generation vs Fo
 3. Vercel will automatically detect Next.js and deploy both the UI and the API Routes.
 4. No additional environment variables are strictly required for the public BMRS API, but you can set `NODE_ENV` if needed.
 
-## AI Tools Used
 
-- **Antigravity AI (Google Deepmind)**: For code generation, architectural design, and documentation.
+# AI Assistance
+
+AI development tools were used for assistance during development (e.g., code suggestions, debugging, and documentation improvements).  
+All architectural decisions, implementation, and analysis were performed by the author.
+
 
 ## Analysis Notebook
 
